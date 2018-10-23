@@ -9,6 +9,13 @@ dowanload demo 单线程下载 断点下载，简单好用的下载工具 使用
    
 从android原生角度理解网络请求和异步操作  
   
+    
+仅需两步即刻开启下载任务：  
+  
+DownloadTask downloadTask=new DownloadTask(context,apkDownloadUrl,apkName,downloadUpdateListener);//建立下载任务     
+   
+downloadTask.execute();//执行下载任务   
+  
 
 截图
    

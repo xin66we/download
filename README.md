@@ -1,10 +1,7 @@
 # download
 dowanload demo 单线程下载 断点下载，简单好用的下载工具 使用原生HttpUrlConnection AsyncTask
 
-   
-   # download  
-    
-单线程下载 断点下载，简单好用的下载工具 使用原生HttpUrlConnection AsyncTask   
+     
 
 网络请求用HttpUrlConnection  
    
@@ -23,4 +20,7 @@ dowanload demo 单线程下载 断点下载，简单好用的下载工具 使用
 <img src="https://github.com/sanlisanlisanli/download/blob/master/image/02.jpg" width="260" height="480"/>  
    
   
-  .
+网页数据来自腾讯应用宝，仅供个人学习所用，请勿用于商业用途.  
+   
+     
+     .
